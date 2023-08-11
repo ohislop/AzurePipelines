@@ -16,7 +16,7 @@
     "azure-pipelines-task-lib": "^4.1.0",
     "fs": "0.0.1-security",
     "fs-extra": "^11.1.0",
-    "glob": "^8.0.3",
+    "glob": "^8.1.0",
     "ncp": "^2.0.0",
     "process": "^0.11.10",
     "rimraf": "^3.0.2",
