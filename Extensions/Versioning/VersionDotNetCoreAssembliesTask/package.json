@@ -15,7 +15,7 @@
   "dependencies": {
     "azure-pipelines-task-lib": "^4.1.0",
     "Buffer": "^0.0.0",
-    "fs": "^0.0.1-security",
+    "fs": "^0.0.2",
     "fs-copy-file-sync": "^1.1.1",
     "ncp": "^2.0.0",
     "request": "^2.88.0",
